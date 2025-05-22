@@ -1,0 +1,10 @@
+streamer = {
+    "demitido",
+    "solteiro", 
+    "usuario2"
+}
+
+donos = {
+    "lojadohenk",
+    "macaco"
+}
