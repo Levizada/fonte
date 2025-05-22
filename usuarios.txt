@@ -1,10 +1,18 @@
-streamer = {
+donos = {
     "demitido",
-    "solteiro", 
-    "usuario2"
+    ""
 }
 
-donos = {
-    "lojadohenk",
-    "macaco"
+developer = {
+    "Levi",
+    "demitido"
+}
+
+
+streamer = {
+    "vazio"
+}
+
+betatester = {
+    "vazio"
 }
