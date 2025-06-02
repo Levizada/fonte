@@ -1,18 +1,39 @@
-donos = {
-    "demitido",
-    ""
-}
+local owners = {
+                            ["gustadanorte"] = true,
+                            ["Levizada"] = true,
+                            ["dallasceo"] = true
+                        }
+                        
+                        local streamers = {
+                            ["raffatt"] = true,
+                            ["dyckofc"] = true,
+                            ["henk"] = true,
+                            ["demitido"] = true,
+                            ["ghostrp"] = true,
+                            ["ratinhomenu"] = true
+                        }
 
-developer = {
-    "Levi",
-    "demitido"
-}
+                        local clienteprivate1 = {
+                            ["Fabin22"] = true,
+                            ["makitoflash"] = true,
+                            ["VictorCriaDeBH"] = true,
+                            ["nomade"] = true,
+                            ["anjo1"] = true,
+                            ["Sombra"] = true,
+                            ["ArcanjoFusion"] = true,
+                            ["tr4v4do"] = true,
+                            ["juliobig"] = true,
+                            ["vitorsz"] = true,
+                            ["Renatolima"] = true,
+                            ["bratvaxiti"] = true,
+                            ["rubb1sh1"] = true
+                        }
 
+                        local clienteprivate2 = {
+                            ["rzncontamuito"] = true,
+                            ["badalino244"] = true
+                        }
 
-streamer = {
-    "vazio"
-}
-
-betatester = {
-    "vazio"
-}
+                        local clienteprivate3 = {
+                            ["badalino244"] = true
+                        }
